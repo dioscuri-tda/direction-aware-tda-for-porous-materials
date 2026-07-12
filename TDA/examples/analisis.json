@@ -1,0 +1,10 @@
+{
+    "dataDir": ".",
+    "datasets": ["output_dummy/dummy"],
+    "testSize": 0.2,
+    "useYield": false,
+    "useModulus": true,
+    "outputName": "output_dummy.txt",
+    "workersNumber": 10
+    }
+    

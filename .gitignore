@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Envs
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+results/
+catboost_info/
+images/

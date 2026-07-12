@@ -1,0 +1,6 @@
+{
+    "size": 30,
+    "name": "dummy",
+    "dataFormat": "data_{}.npy",
+    "localization": "dummy"
+}

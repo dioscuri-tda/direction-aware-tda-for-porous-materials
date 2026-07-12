@@ -1,0 +1,9 @@
+{
+    "uniqueId": "ExamplePipeline",
+    "outputPath": "output_dummy",
+    "datasets": ["dummy/material.json"],
+    "workerNumberAtFiltration": 5,
+    "workerNumberAtDescriptor": 5,
+    "filtrations": true,
+    "descriptors": true
+}
